@@ -52,3 +52,7 @@ h1{
     display: inline;
     float: right;
 }
+.css{
+    width: 90px;
+    height: 32px;
+}
